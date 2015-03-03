@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+output/*
+.DS_Store
+300features_40minwords_10context
+libf*
+data/*
+
